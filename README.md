@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Yajna
-- 
-- 🌱 I’m currently learning coding 
-- 💞️ I’m looking to collaborate on no idea
+-  Hi, I’m Yajna
+-  I’m currently learning coding :)
 - How to reach me -just email
 - ⚡ Fun fact:I am still learning C 
 
