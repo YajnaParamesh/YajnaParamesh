@@ -1,6 +1,6 @@
 -  Hi, I’m Yajna
 -  I’m currently learning coding
--  How to reach me -just email
+-  How to reach me -just mail it 
 -  Fun fact: Beginner :)
 
 <!---
