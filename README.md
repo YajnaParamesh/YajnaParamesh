@@ -1,5 +1,5 @@
 -  Hi, I’m Yajna
--  I’m currently learning coding
+-  I’m currently learning JAVA
 -  How to reach me -just mail it 
 -  Fun fact: Beginner :)
 
