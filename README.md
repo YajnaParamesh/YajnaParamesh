@@ -1,6 +1,6 @@
 -  Hi, I’m Yajna
 -  I’m currently learning JAVA
--  How to reach me -just mail it 
+-  How to reach me -yajnaparmesh337@gmail.com 
 -  Fun fact: Beginner :)
 
 <!---
